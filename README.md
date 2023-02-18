@@ -11,14 +11,6 @@
 <img src="/Images/example.png?raw=true">
 </p>
 
-### Instagram
-
-<p float="left">
-<p> Instagram Login </p>
-<img src="/Images/InstagramLogin.png?raw=true">
-<p> Bot working </p>
-<img src="/Images/Instaexample.png?raw=true">
-</p>
 
 ## Getting Started
     To get started with the Whatsapp Bot and Instagram, you will need to clone this repository and have Python 3 installed on your system.
