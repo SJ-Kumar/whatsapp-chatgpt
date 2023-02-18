@@ -38,13 +38,6 @@ To run the WhatsappBot, navigate to the cloned repository and run the following 
 
 Where <phone_number> is the target phone number and <api_key> is your OpenAI API key.
 
-### Running the InstagramBot
-To run the InstagramBot, navigate to the cloned repository and run the following command:
-```console
- $ python InstagramBot.py <user> <api_key>
-```
-
-Where <user> is the user target and <api_key> is your OpenAI API key.
 
 ## ChatBot Class
     The ChatBot class handles the connection with the OpenAI API and is responsible for sending and receiving messages.
@@ -52,8 +45,6 @@ Where <user> is the user target and <api_key> is your OpenAI API key.
 ## WhatsappBot Class
     The WhatsappBot class handles the interaction with Whatsapp and uses the ChatBot class to communicate with the OpenAI API.
 
-## InstagramBot Class
-    The InstagramBot class handles the interaction with Instagram and uses the ChatBot class to communicate with the OpenAI API.
 
 ## Built With
   [Python 3.9.X](https://www.python.org/downloads/) - The programming language used <br/>
@@ -65,7 +56,7 @@ Where <user> is the user target and <api_key> is your OpenAI API key.
     If you would like to contribute to this project, feel free to open a pull request with your changes.
 
 ## Authors
-    José Henrique da Silva Siqueira
+    Jayanth Kumar
 
 ## License
    This project is licensed under the [MIT License](/LICENSE).
